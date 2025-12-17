@@ -1,0 +1,52 @@
+# LA Crime Report Analysis
+
+This repository contains the **Los Angeles Crime Temporal and Spatial Analysis** notebook.  
+The notebook explores crime patterns in Los Angeles, including time-series analysis and spatial distribution.
+
+---
+
+## Notebook Description
+
+The notebook performs:
+
+- Data cleaning and preprocessing
+- Temporal analysis of crime incidents
+- Spatial visualization of crime hotspots
+- Summary statistics and key insights
+
+All analyses are performed in **Python** using **pandas**, **matplotlib**, **seaborn**, and **geopandas**.
+
+---
+
+## Run in Google Colab
+
+Due to file size constraints, the full notebook (with outputs preserved)  
+is hosted on Google Drive.  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DdGSQPnftbRpLuj4GIKejLjIIw7G4MA0)
+
+> **Note:** Make sure the notebook is shared with **Anyone with the link** so Colab can access it.
+
+---
+
+## How to Use
+
+1. Click the **Open In Colab** button above.  
+2. The notebook will open in Google Colab with all previous outputs preserved.  
+3. You can run the notebook interactively, modify code, or export results.  
+
+---
+
+## Requirements (if running locally)
+
+- Python 3.9+  
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
+- geopandas  
+
+Install dependencies using:
+
+```bash
+pip install pandas numpy matplotlib seaborn geopandas
